@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Vazirmatn-Thin";
+  src: url(assets/fonts/Vazirmatn-Thin.woff2);
+}
+@font-face {
+  font-family: "Vazirmatn-ExtraLight";
+  src: url(assets/fonts/Vazirmatn-ExtraLight.woff2);
+}
+@font-face {
+  font-family: "Vazirmatn-Light";
+  src: url(assets/fonts/Vazirmatn-Light.woff2);
+}
+@font-face {
+  font-family: "Vazirmatn-Medium";
+  src: url(assets/fonts/Vazirmatn-Medium.woff2);
+}
+@font-face {
+  font-family: "Vazirmatn-SemiBold";
+  src: url(assets/fonts/Vazirmatn-SemiBold.woff2);
+}
+@font-face {
+  font-family: "Vazirmatn-Bold";
+  src: url(assets/fonts/Vazirmatn-Bold.woff2);
+}
+@font-face {
+  font-family: "Vazirmatn-Black";
+  src: url(assets/fonts/Vazirmatn-Black.woff2);
+}
